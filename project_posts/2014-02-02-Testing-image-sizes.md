@@ -1,6 +1,6 @@
 ## links to local images
 
-cover, default size
+cover, default size 1000px
 
 ![cover](../project_images/cover.jpg)
 
@@ -12,6 +12,13 @@ scale to 100 wide
 
 ![cover](../project_images/cover.jpg =100x)
 
+no hair, add beard, who is he? 500px
+
+![laurie](../project_images/fry-laurie-tv-show-gold.jpg)
+
+animated tests
+
+![usual](../project_images/usual_suspects.gif)
 
 ## external images
 
