@@ -36,6 +36,14 @@ scale to 100 wide
 
 ![test1](http://laughingsquid.com/wp-content/uploads/Perspective-Lyrique-1024_0818-web-600x400.jpg =100x)
 
+using image tag
+
+<img src="http://laughingsquid.com/wp-content/uploads/Perspective-Lyrique-1024_0818-web-600x400.jpg" />
+
+image tag, with 1000px style width
+
+<img src="http://laughingsquid.com/wp-content/uploads/Perspective-Lyrique-1024_0818-web-600x400.jpg" style="width: 1000px;"/>
+
 ### big image 3000x2000
 
 ![test2](http://3dvideomapping.files.wordpress.com/2012/02/art-hall-5.jpg)
