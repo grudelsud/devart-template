@@ -1,5 +1,5 @@
-# what a beautiful sleep
+# the most beautiful trip
 
-just came out with this idea
+getting serious about travels
 
-http://www.youtube.com/watch?v=JTMf40ORFE8
+https://www.youtube.com/watch?v=Dg0jhPR02gc
